@@ -1,2 +1,5 @@
-# LLM_annotator
-LLM作为标注员 系列code -- from 公众号“漫谈NLP”
+# LLM作为标注员系列code from公众号`漫谈NLP`
+
+## experiment_vol1
+
+`LLM作为标注员系列`第三期内容
