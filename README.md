@@ -11,3 +11,5 @@
 ## 关于作者
 
 欢迎关注作者的公众号：`漫谈NLP`，了解有趣有用的NLP知识，欢迎交流合作～
+
+![公众号二维码](https://github.com/duanyu/LLM_annotator/assets/3396200/cad2036f-3a15-4060-b3b9-6b61cb10e7e0)
