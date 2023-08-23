@@ -4,5 +4,6 @@
 
 * 登陆ModelScope，新建PAI-DSW GPU机器（新账号有36h免费时间）
 * 运行`init.sh`，配置环境
+* 导入dataset/tnews/数据，数据来源自：https://github.com/CLUEbenchmark/CLUE
 * 按需运行exp1、exp2、exp3、exp4
   * 要运行exp2中ensemble标注的效果，需要先运行exp4，生成ensemble标注结果
