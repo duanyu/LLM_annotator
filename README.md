@@ -8,6 +8,11 @@
 
 知乎链接：https://zhuanlan.zhihu.com/p/651884523
 
+## experiment_vol4
+
+`LLM作为标注员系列`第四期内容
+
+
 ## 关于作者
 
 欢迎关注作者的公众号：`漫谈NLP`，了解有趣有用的NLP知识，欢迎交流合作～
