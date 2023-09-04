@@ -3,6 +3,7 @@
 ## experiment_vol3
 
 `LLM作为标注员系列`第三期内容
+**作为标注员的LLM（三）：中文开源大语言模型的标注效果初体验**
 
 微信链接：https://mp.weixin.qq.com/s/YGPn9pj6nyiOk1wHv0UsMA
 
@@ -11,6 +12,9 @@
 ## experiment_vol4
 
 `LLM作为标注员系列`第四期内容
+**作为标注员的LLM（四）：开源大语言模型标注效果优化之Bias Calibration篇**
+
+知乎链接：https://zhuanlan.zhihu.com/p/653767909
 
 
 ## 关于作者
