@@ -16,7 +16,10 @@
 
 **作为标注员的LLM（四）：开源大语言模型标注效果优化之Bias Calibration篇**
 
+微信链接：https://mp.weixin.qq.com/s/mcBE_mxcahNyzcaO5-e5EQ
+
 知乎链接：https://zhuanlan.zhihu.com/p/653767909
+
 
 
 ## 关于作者
